@@ -1,0 +1,100 @@
+baseURL: "https://trueBatty.github.io/" 
+title: Liang Liu's Homepage
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: News
+          url: news/
+          weight: 1
+        - name: Publications
+          url: publications/
+          weight: 2
+        - name: Blog
+          url: blog/
+          weight: 3
+
+params:
+    description: "Hello! I am Liang Liu, a third-year master's student in NLP Lab, School of Computer Science and Technology, Soochow University, advised by Prof. Shoushan Li and Assoc. Prof. Dong Zhang."
+    author: Liang Liu
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    # MainSections: ["papers","data"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Liang Liu
+          subtitle: "Hello! I am **Liang Liu**, a third-year master's student at SUDA NLP Lab, School of Computer Science and Technology, Soochow University, advised by <u>[Prof. Shoushan Li](https://scholar.google.com.hk/citations?user=ZRGSxdUAAAAJ)</u> and <u>[Assoc. Prof. Dong Zhang](https://scholar.google.com.hk/citations?user=ZRGSxdUAAAAJ)</u>. 
+          Additionally, starting from May 2024, I have been engaged in researching the Interpretability of Multimodal Large Language Models at <u>[PRADA Lab](https://pradalab1.github.io/)</u>, KAUST, under the supervision of <u>[Prof. Di Wang](https://scholar.google.com/citations?user=5hGRe_QAAAAJ)</u>.
+
+          <br><br>
+          My research interests include Large Language Models, Multimodal, Alignment of Large Models, and Explainable AI.
+          "
+          imageUrl: "me.png"
+          imageWidth: 200
+          imageHeight: 220
+          imageTitle: Liang Liu
+          buttons:
+            - name: News
+              url: news/
+            - name: Publications
+              url: publication/
+            - name: Blog
+              url: blog/
+
+    socialIcons:
+        # - name: CV
+        #   url: cv.pdf
+        - name: Email
+          url: mailto:trueliuliang@gmail.com
+        - name: GitHub
+          url: https://github.com/trueBatty
+        - name: Twitter
+          url: https://x.com/trueBatty
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    label:
+      text: "Liang Liu"
+      icon: favicon.ico
+      # icon: kpbl.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
