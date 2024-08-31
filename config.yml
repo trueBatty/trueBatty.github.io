@@ -57,7 +57,7 @@ params:
           imageUrl: "me.png"
           imageWidth: 200
           imageHeight: 220
-          imageTitle: Liang Liu
+          imageTitle: SuperMan
           buttons:
             - name: 🔥News
               url: news

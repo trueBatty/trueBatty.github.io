@@ -7,5 +7,5 @@ description: "Recent News"
 ---
 
 ---
-- 2024.7: 🎉🎉 One paper is accepted by xxx!
-- 2024.6: 🎉🎉 One paper is accepted by xxx!
+- 2024.7: 🎉🎉 One paper is accepted by CIKM!
+- 2024.6: 🎉🎉 One paper is accepted by ICANN!
