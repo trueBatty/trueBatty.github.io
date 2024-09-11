@@ -14,7 +14,7 @@ menu:
         - name: News
           url: news
           weight: 1
-        - name: Publications
+        - name: Publications 
           url: publications/
           weight: 2
         - name: Blog
@@ -67,10 +67,12 @@ params:
               url: blog/
 
     socialIcons:
-        # - name: CV
-        #   url: cv.pdf
+        - name: CV
+          url: cv.pdf
         - name: Email
           url: mailto:trueliuliang@gmail.com
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=9mN2yZoAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/trueBatty
         - name: Twitter
