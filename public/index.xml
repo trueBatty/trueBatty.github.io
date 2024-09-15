@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/news/</guid>
       <description>Recent News</description>
     </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/blog/blog1/xxx/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/blog1/xxx/</guid>
+      <description>test</description>
+    </item>
   </channel>
 </rss>
