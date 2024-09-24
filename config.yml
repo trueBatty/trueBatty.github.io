@@ -54,9 +54,9 @@ params:
           <br><br>
           My research interests include Large Language Models, Multimodal, Diffusion, Alignment of Large Models, and Explainable AI.
           "
-          imageUrl: "me.png"
+          imageUrl: "longtu.jpg"
           imageWidth: 200
-          imageHeight: 220
+          imageHeight: 200
           imageTitle: SuperMan
           buttons:
             - name: 🔥News
