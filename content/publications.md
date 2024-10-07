@@ -20,6 +20,6 @@ description: "My Publications"
 <br>
 
 ## Selected Preprints
-<small>**A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning.**</small> \
-<small>_Lijie Hu, **Liang Liu**, Shu Yang, Xin CHEN, Hongru Xiao, Mengdi Li, Pan Zhou, Muhammad Asif Ali, Di Wang._</small> \
+<small>**Understanding Reasoning in Chain-of-Thought from the Hopfieldian View.**</small> \
+<small>_Lijie Hu*, **Liang Liu***, Shu Yang*, Xin CHEN, Zhen Tan, Muhammad Asif Ali, Mengdi Li, Di Wang._</small> \
 <small>Arxiv 2024.</small>
