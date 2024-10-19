@@ -20,6 +20,10 @@ description: "My Publications"
 <br>
 
 ## Selected Preprints
+<small>**What makes your model a low-empathy or warmth person: Exploring the Origins of Personality in LLMs.**</small> \
+<small>_Shu Yang, Shenzhe Zhu, Ruoxuan Bao, **Liang Liu**, Yu Cheng, Lijie Hu, Mengdi Li, Di Wang._</small> \
+<small>Arxiv 2024.</small>
+
 <small>**Understanding Reasoning in Chain-of-Thought from the Hopfieldian View.**</small> \
 <small>_Lijie Hu*, **Liang Liu***, Shu Yang*, Xin CHEN, Zhen Tan, Muhammad Asif Ali, Mengdi Li, Di Wang._</small> \
 <small>Arxiv 2024.</small>

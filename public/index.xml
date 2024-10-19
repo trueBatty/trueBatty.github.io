@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Liang Liu&#39;s Homepage</title>
-    <link>http://localhost:1313/</link>
+    <link>https://trueBatty.github.io/</link>
     <description>Recent content on Liang Liu&#39;s Homepage</description>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trueBatty.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>📝Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>https://trueBatty.github.io/publications/</link>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
+      <guid>https://trueBatty.github.io/publications/</guid>
       <description>My Publications</description>
     </item>
     <item>
       <title>🔥News</title>
-      <link>http://localhost:1313/news/</link>
+      <link>https://trueBatty.github.io/news/</link>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/</guid>
+      <guid>https://trueBatty.github.io/news/</guid>
       <description>Recent News</description>
     </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/blog/blog1/xxx/</link>
+      <link>https://trueBatty.github.io/blog/blog1/xxx/</link>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/blog1/xxx/</guid>
+      <guid>https://trueBatty.github.io/blog/blog1/xxx/</guid>
       <description>test</description>
     </item>
   </channel>
