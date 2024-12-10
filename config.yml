@@ -56,7 +56,7 @@ params:
           "
           imageUrl: "me.jpg"
           imageWidth: 150
-          imageHeight: 180
+          imageHeight: 200
           imageTitle: SuperMan
           buttons:
             - name: 🔥News
