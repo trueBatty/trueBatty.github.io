@@ -23,7 +23,7 @@ menu:
 
 params:
     social: true
-    description: "Hello! I am Liang Liu, a third-year master's student in NLP Lab, School of Computer Science and Technology, Soochow University, advised by Prof. Shoushan Li and Assoc. Prof. Dong Zhang."
+    description: "Hello! I am Liang Liu, a third-year master's student in NLP Lab, School of Computer Science and Technology, Soochow University, advised by Prof. Shoushan Li."
     author: Liang Liu
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -53,7 +53,7 @@ params:
           Additionally, starting from May 2024, I have been engaged in researching the Interpretability of Multimodal Large Language Models at <u>[PRADA Lab](https://pradalab1.github.io/)</u>, KAUST, under the supervision of <u>[Prof. Di Wang](https://scholar.google.com/citations?user=5hGRe_QAAAAJ)</u>.
 
           <br><br>
-          My research interests include Large Language Models, Multimodal, Agent, Reasoning, and Explainable AI.
+          My research interests include Large Language Models, Agent, Reasoning, and Explainable AI.
           "
           imageUrl: "me.jpg"
           imageWidth: 150
