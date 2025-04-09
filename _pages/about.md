@@ -1,10 +1,6 @@
 ---
 permalink: /
-<<<<<<< HEAD
-# title: 
-=======
 # title: "About me"
->>>>>>> 893d317038eebd9bcf4b9b4691a62fee462c2e9e
 author_profile: true
 redirect_from: 
   - /about/
