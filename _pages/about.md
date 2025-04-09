@@ -9,8 +9,8 @@ redirect_from:
 
 ## 👋 About Me
 Welcome to my homepage! I am an incoming PhD student at Sun Yat-Sen University, starting in the fall of 2025.
-Currently, I am a third-year master's student at SUDA NLP Lab, School of Computer Science and Technology, Soochow University, under the supervision of <u>[Prof. Shoushan Li](https://scholar.google.com.hk/citations?user=ZRGSxdUAAAAJ)</u>. 
-Additionally, I was a research intern at <u>[PRADA Lab](https://pradalab1.github.io/)</u>, KAUST, advised by <u>[Prof. Di Wang](https://scholar.google.com/citations?user=5hGRe_QAAAAJ)</u>. 
+Currently, I am a third-year master's student at SUDA NLP Lab, School of Computer Science and Technology, Soochow University, under the supervision of [Prof. Shoushan Li](https://scholar.google.com.hk/citations?user=ZRGSxdUAAAAJ). 
+Additionally, I was a research intern at [PRADA Lab](https://pradalab1.github.io/), KAUST, advised by [Prof. Di Wang](https://scholar.google.com/citations?user=5hGRe_QAAAAJ). 
 
 
 My research interests fall in the fields of Large Language Models (LLMs) and Reinforcement Learning (RL), including Agent Evolution, Reasoning Capabilities, and Reward Modeling.
@@ -26,23 +26,12 @@ My research interests fall in the fields of Large Language Models (LLMs) and Rei
 <small>(* Corresponding author, # Mentored student)</small>
 
 **Conference Papers**
+- **Liang Liu**, Dong Zhang, Shoushan Li, Guodong Zhou, Erik Cambria._[Two Heads are Better than One: Zero-shot Cognitive Reasoning via Multi-LLM Knowledge Fusion.](https://dl.acm.org/doi/abs/10.1145/3627673.3679744) Proceedings of CIKM 2024.
 
-- [Two Heads are Better than One: Zero-shot Cognitive Reasoning via Multi-LLM Knowledge Fusion.](https://dl.acm.org/doi/abs/10.1145/3627673.3679744) \
-_**Liang Liu**, Dong Zhang, Shoushan Li, Guodong Zhou, Erik Cambria._ \
-Proceedings of CIKM 2024.
-
-- [Generative Chain-of-Thought for Zero-shot Cognitive Reasoning.](https://link.springer.com/chapter/10.1007/978-3-031-72344-5_22)
-_**Liang Liu**, Dong Zhang, Suyang Zhu, Shoushan Li._ \
-Proceedings of ICANN 2024.
+- _**Liang Liu**, Dong Zhang, Suyang Zhu, Shoushan Li._ [Generative Chain-of-Thought for Zero-shot Cognitive Reasoning.](https://link.springer.com/chapter/10.1007/978-3-031-72344-5_22) Proceedings of ICANN 2024.
 
 **Workshop Papers**
-
-- [What Makes Your Model a Low-empathy or Warmth Person: Exploring the Origins of Personality in LLMs.](https://openreview.net/pdf?id=yTPbrLyOgd) \
-_Shu Yang*, Shenzhe Zhu*, **Liang Liu**, Mengdi Li, Lijie Hu, Di Wang._ \
-Proceedings of NeurIPS 2024 Workshop LanGame.
+- _Shu Yang*, Shenzhe Zhu*, **Liang Liu**, Mengdi Li, Lijie Hu, Di Wang._ [What Makes Your Model a Low-empathy or Warmth Person: Exploring the Origins of Personality in LLMs.](https://openreview.net/pdf?id=yTPbrLyOgd) Proceedings of NeurIPS 2024 Workshop LanGame.
 
 **Preprints**
-
-- [Understanding Reasoning in Chain-of-Thought from the Hopfieldian View.](https://arxiv.org/pdf/2410.03595) \
-_Lijie Hu*, **Liang Liu***, Shu Yang*, Xin Chen, Zhen Tan, Muhammad Asif Ali, Mengdi Li, Di Wang._ \
-Arxiv 2024.
+- _Lijie Hu*, **Liang Liu***, Shu Yang*, Xin Chen, Zhen Tan, Muhammad Asif Ali, Mengdi Li, Di Wang._ [Understanding Reasoning in Chain-of-Thought from the Hopfieldian View.](https://arxiv.org/pdf/2410.03595) Arxiv 2024.
