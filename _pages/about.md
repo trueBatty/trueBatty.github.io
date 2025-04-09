@@ -26,9 +26,8 @@ My research interests fall in the fields of Large Language Models (LLMs) and Rei
 
 **Conference Papers**
 - _**Liang Liu**, Dong Zhang, Shoushan Li, Guodong Zhou, Erik Cambria._ [Two Heads are Better than One: Zero-shot Cognitive Reasoning via Multi-LLM Knowledge Fusion.](https://dl.acm.org/doi/abs/10.1145/3627673.3679744) Proceedings of CIKM 2024.
-
 - _**Liang Liu**, Dong Zhang, Suyang Zhu, Shoushan Li._ [Generative Chain-of-Thought for Zero-shot Cognitive Reasoning.](https://link.springer.com/chapter/10.1007/978-3-031-72344-5_22) Proceedings of ICANN 2024.
-
+  
 **Workshop Papers**
 - _Shu Yang*, Shenzhe Zhu*, **Liang Liu**, Mengdi Li, Lijie Hu, Di Wang._ [What Makes Your Model a Low-empathy or Warmth Person: Exploring the Origins of Personality in LLMs.](https://openreview.net/pdf?id=yTPbrLyOgd) Proceedings of NeurIPS 2024 Workshop LanGame.
 
