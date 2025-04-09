@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## 👋About Me
-Welcome to my homepage! I am an incoming PhD student at Sun Yat-Sen University, starting in the fall of 2025.
+👋Welcome to my homepage! I am an incoming PhD student at Sun Yat-Sen University, starting in the fall of 2025.
 Currently, I am a third-year master's student at SUDA NLP Lab, School of Computer Science and Technology, Soochow University, under the supervision of [Prof. Shoushan Li](https://scholar.google.com.hk/citations?user=ZRGSxdUAAAAJ). 
 Additionally, I was a research intern at [PRADA Lab](https://pradalab1.github.io/), KAUST, advised by [Prof. Di Wang](https://scholar.google.com/citations?user=5hGRe_QAAAAJ). 
 
