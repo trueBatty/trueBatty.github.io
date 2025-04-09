@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Liang Liu (刘亮)"
   pronouns         : "he/him"   
-  bio              : "Incoming Ph.D. @SYSU & Master's student @SUDA"
+  bio              : "Master's student at Soochow University"
   location         : "Suzhou, China"
   employer         : "Soochow University"
   uri              : # URL
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
