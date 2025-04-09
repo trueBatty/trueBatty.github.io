@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## 👋 About Me
+## 👋About Me
 Welcome to my homepage! I am an incoming PhD student at Sun Yat-Sen University, starting in the fall of 2025.
 Currently, I am a third-year master's student at SUDA NLP Lab, School of Computer Science and Technology, Soochow University, under the supervision of [Prof. Shoushan Li](https://scholar.google.com.hk/citations?user=ZRGSxdUAAAAJ). 
 Additionally, I was a research intern at [PRADA Lab](https://pradalab1.github.io/), KAUST, advised by [Prof. Di Wang](https://scholar.google.com/citations?user=5hGRe_QAAAAJ). 
@@ -15,13 +15,13 @@ Additionally, I was a research intern at [PRADA Lab](https://pradalab1.github.io
 
 My research interests fall in the fields of Large Language Models (LLMs) and Reinforcement Learning (RL), including Agent Evolution, Reasoning Capabilities, and Reward Modeling.
 
-## 🔥 News
+## 🔥News
 - 2024.10: 🎉🎉 One paper is accepted by NeurIPS 2024 Workshop LanGame!
 - 2024.9: I accepted the invitation to serve as a reviewer for ICLR 2025.
 - 2024.7: 🎉🎉 One paper is accepted by CIKM 2024!
 - 2024.6: 🎉🎉 One paper is accepted by ICANN 2024!
 
-## 📝 Publications
+## 📝Publications
 
 <small>(* Corresponding author, # Mentored student)</small>
 

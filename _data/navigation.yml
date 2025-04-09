@@ -9,9 +9,9 @@
 
 main:
   - title: "News"
-    url: /#🔥-news
+    url: /#🔥news
 
-  - title: "Talks"
+  - title: "Publications"
     url: /talks/    
 
   - title: "Teaching"
@@ -22,12 +22,3 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
