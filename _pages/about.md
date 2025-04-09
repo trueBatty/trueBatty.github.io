@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,5 +32,17 @@ _**Liang Liu**, Dong Zhang, Shoushan Li, Guodong Zhou, Erik Cambria._ \
 Proceedings of CIKM 2024.
 
 - [Generative Chain-of-Thought for Zero-shot Cognitive Reasoning.](https://link.springer.com/chapter/10.1007/978-3-031-72344-5_22)
-_**Liang Liu**, Dong Zhang, Suyang Zhu, Shoushan Li._
+_**Liang Liu**, Dong Zhang, Suyang Zhu, Shoushan Li._ \
 Proceedings of ICANN 2024.
+
+**Workshop Papers**
+
+- [What Makes Your Model a Low-empathy or Warmth Person: Exploring the Origins of Personality in LLMs.](https://openreview.net/pdf?id=yTPbrLyOgd) \
+_Shu Yang*, Shenzhe Zhu*, **Liang Liu**, Mengdi Li, Lijie Hu, Di Wang._ \
+Proceedings of NeurIPS 2024 Workshop LanGame.
+
+**Preprints**
+
+- [Understanding Reasoning in Chain-of-Thought from the Hopfieldian View.](https://arxiv.org/pdf/2410.03595) \
+_Lijie Hu*, **Liang Liu***, Shu Yang*, Xin Chen, Zhen Tan, Muhammad Asif Ali, Mengdi Li, Di Wang._ \
+Arxiv 2024.
