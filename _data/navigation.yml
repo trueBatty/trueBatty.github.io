@@ -9,7 +9,7 @@
 
 main:
   - title: "News"
-    url: /#🔥news
+    url: /#recent-news
 
   - title: "Publications"
     url: /talks/    

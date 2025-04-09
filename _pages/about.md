@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: ""
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,6 @@ redirect_from:
 Welcome to my homepage! I am an incoming PhD student at Sun Yat-Sen University, starting in the fall of 2025.
 Currently, I am a third-year master's student at SUDA NLP Lab, School of Computer Science and Technology, Soochow University, under the supervision of [Prof. Shoushan Li](https://scholar.google.com.hk/citations?user=ZRGSxdUAAAAJ). 
 Additionally, I was a research intern at [PRADA Lab](https://pradalab1.github.io/), KAUST, advised by [Prof. Di Wang](https://scholar.google.com/citations?user=5hGRe_QAAAAJ). 
-
 
 My research interests fall in the fields of Large Language Models (LLMs) and Reinforcement Learning (RL), including Agent Evolution, Reasoning Capabilities, and Reward Modeling.
 
@@ -26,7 +25,7 @@ My research interests fall in the fields of Large Language Models (LLMs) and Rei
 <small>(* Corresponding author, # Mentored student)</small>
 
 **Conference Papers**
-- **Liang Liu**, Dong Zhang, Shoushan Li, Guodong Zhou, Erik Cambria._[Two Heads are Better than One: Zero-shot Cognitive Reasoning via Multi-LLM Knowledge Fusion.](https://dl.acm.org/doi/abs/10.1145/3627673.3679744) Proceedings of CIKM 2024.
+- _**Liang Liu**, Dong Zhang, Shoushan Li, Guodong Zhou, Erik Cambria._ [Two Heads are Better than One: Zero-shot Cognitive Reasoning via Multi-LLM Knowledge Fusion.](https://dl.acm.org/doi/abs/10.1145/3627673.3679744) Proceedings of CIKM 2024.
 
 - _**Liang Liu**, Dong Zhang, Suyang Zhu, Shoushan Li._ [Generative Chain-of-Thought for Zero-shot Cognitive Reasoning.](https://link.springer.com/chapter/10.1007/978-3-031-72344-5_22) Proceedings of ICANN 2024.
 
