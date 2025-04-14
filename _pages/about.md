@@ -21,7 +21,7 @@ My research interests fall in the fields of Large Language Models (LLMs) and Rei
 
 ## 📝Publications
 
-<small>(* Corresponding author, # Mentored student)</small>
+<small>(* indicates equal contribution)</small>
 
 **Conference Papers**
 - _**Liang Liu**, Dong Zhang, Shoushan Li, Guodong Zhou, Erik Cambria._ [Two Heads are Better than One: Zero-shot Cognitive Reasoning via Multi-LLM Knowledge Fusion.](https://dl.acm.org/doi/abs/10.1145/3627673.3679744) Proceedings of CIKM 2024.
