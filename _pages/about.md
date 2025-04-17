@@ -32,3 +32,7 @@ My research interests fall in the fields of Large Language Models (LLMs) and Rei
 
 **Preprints**
 - _Lijie Hu*, **Liang Liu***, Shu Yang*, Xin Chen, Zhen Tan, Muhammad Asif Ali, Mengdi Li, Di Wang._ [Understanding Reasoning in Chain-of-Thought from the Hopfieldian View.](https://arxiv.org/pdf/2410.03595) Arxiv 2024.
+
+## 🎓Educations
+- [2022.09 - Present] Soochow University, Artificial intelligence
+- [2018.09 - 2022.06] Heilongjiang Institute of Technology, Software Engineering
